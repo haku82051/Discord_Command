@@ -8,3 +8,6 @@ Node.js 16
 ## 導入方法
 Node.js V16とNPMをインストールして、フォルダ内で`npm install`にて必要ファイルをインストール。
 `node index.js`で起動。
+
+# Lisence
+This project is licensed under the MIT License, see the LICENSE.txt file for details
